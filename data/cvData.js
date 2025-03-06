@@ -64,7 +64,7 @@ export const cvData = {
       endDate: "Ahora",
     },
     {
-      title: "Programador experto aja",
+      title: "Programador",
       school: "Universidad",
       startDate: "2018",
       endDate: "2019",

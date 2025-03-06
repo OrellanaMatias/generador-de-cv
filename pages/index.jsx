@@ -209,7 +209,7 @@ export default function Home() {
       <Head>
         <title>Orellana Matias</title>
         <meta
-          name="Generador de CVs"
+          name="Generador de CV"
           content="Mi propio generador de CVs :p"
         />
         <link rel="icon" href="/fav.png" />
